@@ -1,4 +1,4 @@
-[Culture Affordance Atlas Website](https://lit.eecs.umich.edu/Culture-Affordance-Atlas/ by HTML5 UP)
+[Culture Affordance Atlas Website](https://lit.eecs.umich.edu/Culture-Affordance-Atlas/)
 
 Culture Affordance Atlas is a curated dataset and knowledge base derived from Dollar Street that highlights how communities around the world solve everyday needs like cooking, sleeping, bathing, and more, using objects shaped by culture, geography, and income. 
 
