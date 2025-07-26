@@ -3016,7 +3016,7 @@ button,
 	margin: 0;
 	position: fixed;
 	text-transform: uppercase;
-	padding-bottom: 20px;
+	margin-bottom: 120px;
 	top: 0;
 	width: 100%;
 	z-index: 10000;
@@ -3268,7 +3268,7 @@ button,
 
 /* Breadcrumb */
 ul.breadcrumb {
-	padding-top: 30px;
+	padding-top: 100px;
 	padding: 6px ;
 	list-style: none;
 	background-color: #44485e;
