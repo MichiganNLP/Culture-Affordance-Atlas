@@ -3268,6 +3268,7 @@ button,
 
 /* Breadcrumb */
 ul.breadcrumb {
+	padding-top: 30px;
 	padding: 6px ;
 	list-style: none;
 	background-color: #44485e;
