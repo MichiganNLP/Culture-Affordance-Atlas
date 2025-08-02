@@ -160,7 +160,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #9bf1ff !important;
+			color: #9bf1ff ;
 		}
 
 		a:active {
@@ -3380,6 +3380,50 @@ input, select, textarea {
 				}
 
 		}
+
+
+/* Breadcrumb */
+ul.breadcrumb {
+	padding-top: 100px;
+	padding: 6px ;
+	list-style: none;
+	background-color: #44485e;
+  }
+  
+  /* Display list items side by side */
+  ul.breadcrumb li {
+	display: inline;
+	font-size: 15px;
+	font-size: 1.0em;
+	font-family: "Lexend";
+	font-weight: 600;
+  }
+  
+  /* Add a slash symbol (/) before/behind each list item */
+  ul.breadcrumb li+li:before {
+	padding: 5px;
+	color: black;
+	content: "/\00a0";
+	color: #6fc3df;
+  }
+  
+  /* Add a color to all links inside the list */
+  ul.breadcrumb li a {
+	color: #6fc3df;
+	text-decoration: none;
+  }
+
+  ul.breadcrumb li {
+	color: #fcfdfd;
+	text-decoration: none;
+  }
+  
+  /* Add a color on mouse-over */
+  ul.breadcrumb li a:hover {
+	color: #f9fbfc;
+	text-decoration: underline;
+  }
+
 
 /* Banner */
 
